@@ -1,0 +1,23 @@
+# Tuagas ke-1
+Nama = "Nabila"
+Umur = 18
+tinggi = 150
+angka_favorit = 8
+
+print("nama", Nama)
+print("Umur ", Umur)
+print("tinggi" , tinggi)
+print("angka_favorit", angka_favorit)
+
+# Tugas ke-2
+harga_pensil = 2000
+jumlah_pensil = 4
+harga_buku = 5000
+jumlah_buku = 2
+print(harga_pensil * jumlah_pensil + harga_buku * jumlah_buku)
+
+# tugas ke_3
+if angka_favorit % 8 == 0 :
+    print("angka genap")
+else:
+    print("angka ganjil")
